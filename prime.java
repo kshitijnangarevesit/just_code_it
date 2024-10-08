@@ -1,7 +1,7 @@
 // Java program to demonstrate Optimized method based to check if a number is prime
 import java.util.Scanner;
 
-class GFG {
+class prime{
     static boolean isPrime(int n)
     {
         // Corner case
