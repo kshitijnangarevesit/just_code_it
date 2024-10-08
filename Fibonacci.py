@@ -11,5 +11,5 @@ def fibo(num):
       n2 = n3
       print(n3, end=" ")
   print()
-num = int(input("Enter a number = "))
+num = 10
 fibo(num)
